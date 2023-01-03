@@ -1,0 +1,17 @@
+nav {
+    display: flex;
+    justify-content: center;
+}
+nav a {
+    margin: 0 10px;
+    padding: 5px;
+    text-decoration: none;
+    color:coral;
+}
+nav a:hover{
+    color:brown;
+}
+.active{
+    background-color: rgb(167, 138, 138);
+    color:bisque;
+}
